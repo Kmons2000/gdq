@@ -38,6 +38,21 @@ nav a:hover {
   background-color: black;
 }
 
+main {
+  min-height:300px;
+  text-align: center;
+}
+
+aside {
+  width: 175px;
+  border-right: 1px solid black;
+  border-left: 1px solid black;
+}
+
+main section{
+  border-left: 1px solid black;
+}
+
 footer {
   border-top: 1px solid black;
   font-weight: bold;
@@ -50,4 +65,24 @@ footer a{
 
 footer a:hover{
   color: black;
+}
+
+main h2{
+  padding: 0em;
+  margin: 0.5em;
+  text-align: center;
+}
+
+main a {
+  font-size: 1.5em;
+  color: #FFEECF;
+  text-align: center;
+}
+
+main a:hover {
+  color: black;
+}
+
+main p {
+  font-size: 2em;
 }
