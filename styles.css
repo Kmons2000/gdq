@@ -3,15 +3,12 @@ body {
   background-repeat: no-repeat;
   color:#FFEECF;
   margin: 0;
-}
-body, html {
   background-image: url("gdq_logo.png");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
-
 
 header{
   text-align: center;
@@ -39,4 +36,18 @@ nav a {
 
 nav a:hover {
   background-color: black;
+}
+
+footer {
+  border-top: 1px solid black;
+  font-weight: bold;
+  font-style: italic;
+}
+
+footer a{
+  color: red;
+}
+
+footer a:hover{
+  color: black;
 }
