@@ -4,8 +4,8 @@ body {
   color:#FFEECF;
   margin: 0;
 }
-body {
-  background-image: url("http://www.yellowkillerbee.com/wp-content/uploads/gdq_logo.png");
+body, html {
+  background-image: url("gdq_logo.png");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
