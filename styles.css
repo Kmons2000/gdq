@@ -1,0 +1,19 @@
+body {
+  background-color: #253C78;
+  color:#FFEECF;
+  margin: 0;
+}
+
+header{
+  text-align: center;
+  font-size: 2em;
+  font-family: 'Baloo Thambi', cursive;
+}
+
+header h1{
+  margin: 0;
+}
+
+header h2{
+  margin: 0;
+}
